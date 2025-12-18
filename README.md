@@ -27,7 +27,7 @@ The manuscript has been accepted for publication in *Systematic Entomology*.
 † Ivonne.garzon@ib.unam.mx | https://orcid.org/0000-0003-3914-4952  
 ‡ flaviajoele@gmail.com | https://orcid.org/0009-0008-1027-3383  
 § andrew.brower@usda.gov | https://orcid.org/0000-0001-6874-3589  
-* **Corresponding author:** atorresgalvis@gmail.com | https://orcid.org/0000-0003-4505-5518  
+\* **Corresponding author:** atorresgalvis@gmail.com | https://orcid.org/0000-0003-4505-5518  
 
 ---
 
