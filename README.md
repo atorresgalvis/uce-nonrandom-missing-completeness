@@ -21,9 +21,9 @@ The manuscript has been accepted for publication in *Systematic Entomology*.
 ⁵ Department of Entomology, National Museum of Natural History, Smithsonian Institution, Washington, DC, 20013-7012, USA  
 ⁶ Center for Integrative Biodiversity Discovery, Leibniz Institute for Evolution and Biodiversity Science, Museum für Naturkunde, Invalidenstraße 43, 10115 Berlin, Germany  
 
-† Ivonne.garzon@ib.unam.mx | https://orcid.org/0000-0003-3914-4952  
-‡ flaviajoele@gmail.com | https://orcid.org/0009-0008-1027-3383  
+† Ivonne.garzon@ib.unam.mx | https://orcid.org/0000-0003-3914-4952
 § andrew.brower@usda.gov | https://orcid.org/0000-0001-6874-3589  
+‡ flaviajoele@gmail.com | https://orcid.org/0009-0008-1027-3383  
 \* **Corresponding author:** atorresgalvis@gmail.com | https://orcid.org/0000-0003-4505-5518  
 
 ---
