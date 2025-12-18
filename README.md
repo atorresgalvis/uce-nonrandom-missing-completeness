@@ -34,6 +34,14 @@ As larger amounts of DNA sequence data become available, so does the need for he
 
 ---
 
+## Description of the data and file structure
+
+\- All the data files imported are analyzed using the scripts ```CodeAveMissInLoci.R```, ```CodeAveMissInSpecies.R```, ```CodeBLnMD.R```, ```CodeSUPnMD.R```, and ```CodeTotalMiss.R```.
+
+\- The CSV files could be read using Excel, R, or other software available for tables.
+
+---
+
 ## Citation
 
 If you use the data or code from this repository, please cite (along with the paper):
