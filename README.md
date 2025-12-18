@@ -12,10 +12,7 @@ The manuscript has been accepted for publication in *Systematic Entomology*.
 
 ## Authors
 
-**Ivonne J. Garzón Orduña**¹²†  
-**Andrew V. Z. Brower**³⁴⁵§  
-**Flavia R. Joele**¹‡  
-**Ambrosio Torres**⁶*
+**Ivonne J. Garzón Orduña**¹²†, **Andrew V. Z. Brower**³⁴⁵§, **Flavia R. Joele**¹‡, **Ambrosio Torres**⁶*
 
 ¹ Laboratorio de Sistemática de Polillas, Departamento de Zoología, Colección Nacional de Insectos, Instituto de Biología, UNAM, CDMX, México  
 ² California Academy of Sciences, 55 Music Concourse Dr, San Francisco, CA 94118, USA  
