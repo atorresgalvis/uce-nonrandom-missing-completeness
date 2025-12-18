@@ -34,15 +34,6 @@ As larger amounts of DNA sequence data become available, so does the need for he
 
 ---
 
-## Repository contents
-
-This repository includes:
-- Processed datasets used in the analyses
-- Scripts for quantifying missing data and testing its effects
-- Reproducible workflows to replicate all analyses reported in the paper
-
----
-
 ## Citation
 
 If you use the data or code from this repository, please cite (along with the paper):
